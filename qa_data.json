@@ -1,0 +1,38 @@
+{
+    "questions": [
+        "How many bed- and bathrooms do you want?",
+        "How many square feet?",
+        "How old can the house be?",
+        "What are the 3 most important things in the house?",
+        "Are there any amenities you want?",
+        "What kind of neighborhood do you want to live in?",
+        "How urban do you want your neighborhood to be?"
+    ],
+    "customer1": [
+        "I want a three-bedroom, two-bathroom house.",
+        "Between 2000 to 3000 sqft.",
+        "I think it should be built in 1985 or later.",
+        "A spacious kitchen, a cozy living room, big windows.",
+        "A backyard for gardening, a two-car garage, and a modern, energy-efficient heating system.",
+        "A quiet neighborhood with good local schools, and convenient shopping options and easy access to major highways.",
+        "A balance between suburban tranquility and access to urban amenities like restaurants and theaters."
+    ],
+    "customer2": [
+        "A luxurious 5-bedroom, 3-bathroom house.",
+        "5000 sqft or more.",
+        "Relatively new, built 2000 or later.",
+        "A gourmet kitchen, a winter garden, high ceilings.",
+        "A big garden, a pool, renovated or fairly new house.",
+        "A safe and private neighborhood, but close to a bigger city with plenty of entertainment and shopping options.",
+        "The neighborhood should be in a convenient location close to a major highway, train station in walking distance (less than 20 minutes)."
+    ],
+    "customer3": [
+        "A 4-bedroom, 2-bathroom house.",
+        "4000 sqft or more.",
+        "Doesn't matter.",
+        "Very spacious floor plan, open kitchen, good views from the window.",
+        "A gigantic garden to keep some animals, many trees on the property.",
+        "A very private and quiet neighborhood in the countryside. Neighbors should not be directly next to each other.",
+        "A supermarket should be available within 30 minutes drive. Good surrounding nature and hiking trails are important."
+    ]
+}
