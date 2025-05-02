@@ -1,0 +1,12 @@
+pandas
+numpy
+torch
+torchvision
+diffusers
+langchain_openai
+langchain
+chromadb
+pydantic
+transformers
+sentence-transformers
+matplotlib
