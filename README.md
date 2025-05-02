@@ -10,5 +10,5 @@ The project is divided into four parts:
 - MultiModalRealEstateAgent.ipynb: Save housing data + images to a vector-DB by using CLIP model to embed text and image data and then take the average. Use vector-based similarity search using a customer Q&A + image embedding to retrieve most relevant DB results.
 - CreateImages.ipynb: Use playground-v2-1024px-aesthetic model to create housing images based on input text that is created from given housing and Q&A data.
 
-Necessary settings:
+**Necessary settings:**
 A personal open-ai api key and base are necessary and have to be set in the config.py file.
